@@ -1,0 +1,16 @@
+{
+  "name": "color-names",
+  "version": "1.0.0",
+  "description": "Many, many names of colors",
+  "main": "color-names.json",
+  "repository": "jonathantneal/color-names",
+  "keywords": [
+    "colors",
+    "hexes",
+    "names"
+  ],
+  "author": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)",
+  "license": "CC0-1.0",
+  "bugs": "https://github.com/jonathantneal/color-names/issues",
+  "homepage": "https://github.com/jonathantneal/color-names#readme"
+}

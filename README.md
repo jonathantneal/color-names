@@ -1,3 +1,9 @@
 # Color Names
 
-Many, many names of colors. Most of them were collected from Wikipedia.
+The largest list of color names referenceable by hex.
+
+## Usage
+
+```js
+require('color-names')['#d2f6de']; // Blue Romance
+```

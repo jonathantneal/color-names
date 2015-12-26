@@ -1,13 +1,23 @@
 {
   "name": "color-names",
-  "version": "1.0.0",
-  "description": "Many, many names of colors",
+  "version": "2.0.0",
+  "description": "The largest list of color names referenceable by hex",
   "main": "color-names.json",
   "repository": "jonathantneal/color-names",
   "keywords": [
     "colors",
     "hexes",
-    "names"
+    "names",
+    "values",
+    "palettes",
+    "hues",
+    "chromas",
+    "dyes",
+    "paints",
+    "tints",
+    "rgbs",
+    "references",
+    "wikipedia"
   ],
   "author": "Jonathan Neal <jonathantneal@hotmail.com> (http://jonathantneal.com)",
   "license": "CC0-1.0",
